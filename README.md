@@ -30,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhdsahal99&" alt="muhdsahal99" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdsahal99&hide_progress=true)](https://github.com/muhdsahal99/github-readme-stats)
