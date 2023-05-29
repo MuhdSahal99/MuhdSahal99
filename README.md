@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhdsahal99&label=Profile%20views&color=0e75b6&style=flat" alt="muhdsahal99" /> </p>
 
 
-- 🔭 I’m currently working on **Object Detection**
+- 🔭 I’m currently working on **Natural Language Processing**
 
 - 💬 Ask me about **Artificial Intelligence, Object Detection and Computer Vision**
 
