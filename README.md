@@ -1,18 +1,18 @@
 [![MasterHead](https://www.un.org/sites/un2.un.org/files/field/image/1594842639.8507.jpg)](https://MuhdSahal.io)
 <h1 align="center">Hi 👋, I'm Mohammed Sahal</h1>
-<h3 align="center">A passionate Data scientist and Software Engineer.</h3>
+<h3 align="center"> An Applied Scientist (Data science and software engineering).</h3>
 <img align="right" alt="coding" width="400" src="https://www.charterglobal.com/wp-content/uploads/2017/07/1_YL6_gcdw5nCkCsjFp3AUwA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhdsahal99&label=Profile%20views&color=0e75b6&style=flat" alt="muhdsahal99" /> </p>
 
 
-- 🔭 I’m currently working on **Object detection and object tracking using the openCV library**
+- 🔭 I’m currently working on **Large Language Models and Generative AI **
 
 - 💬 Ask me about **Artificial Intelligence, Object Detection and Computer Vision**
 
 - 📫 How to reach me **MuhammedSahalqo@gmail.com**
 
-- ⚡ Fun fact **Despite being a data scientist, I have a deep appreciation for the arts and enjoy practicing calligraphy in my free time. I find it to be a relaxing and creative outlet that helps me recharge and stay focused when working on complex data analysis tasks.**
+- ⚡ Fun fact **Despite being a data scientist, I have a deep appreciation for the arts and enjoy practicing calligraphy in my free time. .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
