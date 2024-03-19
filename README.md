@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **MuhammedSahalqo@gmail.com**
 
-- ⚡ Fun fact **Despite being a data scientist, I have a deep appreciation for the arts and enjoy practicing calligraphy in my free time. .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
