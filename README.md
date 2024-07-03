@@ -24,7 +24,7 @@
 
  <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/https://leetcode.com/u/MDsahal?theme=auto&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/MDsahal?theme=auto&font=baloo&extension=null)
 
   </div>
 
