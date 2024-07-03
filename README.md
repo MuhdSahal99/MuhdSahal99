@@ -25,7 +25,7 @@
  <div align="center">
 
   ![LeetCode Stats](https://leetcode.card.workers.dev/MDsahal?theme=auto&font=baloo&extension=null)
-   ![](https://github-readme-activity-graph.vercel.app/graph?username=[https://github.com/MuhdSahal99]&theme=tokyo-night)
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=[MuhdSahal99]&theme=tokyo-night)
 
   </div>
 
