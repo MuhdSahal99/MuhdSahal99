@@ -108,14 +108,7 @@ class MohammedSahal:
 
 ---
 
-## 💼 Experience
 
-| Role | Organization | Period | Highlights |
-|:--|:--|:--|:--|
-| **AI Consultant** — Generative & Agentic AI | Smart Solutions LLC · Remote | 2026 – Present | LangGraph supervisor + worker agents, text-to-SQL BI, streaming FastAPI services, Kafka → Iceberg/Trino data platform |
-| **AI Engineer** | Ministry of Health · Muscat, Oman | 2024 – 2025 | Clinical RAG assistant, automated ICD cause-of-death coding, Spring Boot APIs into national health systems, responsible AI |
-| **Data Scientist** — AI & Full Stack | Lenok Solutions · India | 2023 – 2024 | CNN object detection & face recognition, Dockerized ML services, CI/CD |
-| **Data Science Intern** | RoadE Lab · India | 2022 | Object detection & OCR pipelines integrated with Spring Boot |
 
 ---
 
