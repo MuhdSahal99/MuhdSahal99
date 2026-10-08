@@ -1,7 +1,6 @@
 <!-- ============================== HEADER ============================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohammed%20Sahal&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%20Engineer%20%E2%80%A2%20Generative%20%26%20Agentic%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Mohammed Sahal"/>
-</p>
+# **Mohammed Sahal**
+### Senior AI Engineer • Generative & Agentic AI
 
 <p align="center">
   <a href="https://github.com/muhdsahal99">
