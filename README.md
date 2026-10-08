@@ -1,6 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 # **Mohammed Sahal**
-### Senior AI Engineer • Generative & Agentic AI
+### Senior Applied AI Engineer • Generative & Agentic AI
 
 <p align="center">
   <a href="https://github.com/muhdsahal99">
